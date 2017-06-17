@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ee">
+    <output-path>$PROJECT_DIR$/WebRoot/WEB-INF/classes/artifacts/ee</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="chatroom/web/WebRoot" />
+    </root>
+  </artifact>
+</component>
